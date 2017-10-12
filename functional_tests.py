@@ -17,7 +17,7 @@ class NewVisitorTest(unittest.TestCase):
 
         self.fail('Finish the test!')
 
-        # She is invoted to enter a to-do item immediately
+        # She is invited to enter a to-do item immediately
         # She types "Buy peacock feathers" into a text box
         # (Edith's hobby is tying fly-fishing lures)
         # When she hits enter, the page updates, and now the page lists
