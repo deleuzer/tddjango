@@ -1,4 +1,9 @@
-* Code smell: POST test is too long?
-* lists/views.py stores empty item to db on every page visit
-* Display multiple items in the table
-* Support more than one list
+* Broken
+** Display multiple items in the table
+** Support more than one list
+** Clean up after functional tests run
+** remove time.sleeps
+
+* FIXED
+** lists/views.py stores empty item to db on every page visit
+** Code smell: POST test is too long?
